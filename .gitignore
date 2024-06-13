@@ -127,3 +127,31 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+datasets/
+
+# 数据文件
+*.nii
+*.nii.gz
+*.mat
+*.csv
+*.txt
+*.xls
+*.xlsx
+*.json
+*.xml
+*.pkl
+*.pklz
+
+# 图片文件
+.png
+.jpg
+.jpeg
+.gif
+.tif
+.tiff
+.bmp
+.ico
+.svg
+.eps
+.pbm
